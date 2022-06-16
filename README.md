@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saravana6788
 - 👀 I’m interested in Full Stack Development, Mobile Development, Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Android Mobile Development
-- 💞️ I’m looking to collaborate on any Android Development projects
+- 💞️ I’m looking forward to collaborate on any Full Stack Development or Android Development projects
 - 📫 How to reach me saravanan.ganapathy@gmail.com
 
 <!---
